@@ -1,4 +1,4 @@
-# art-evaluator (Image Evaluation Distribution System (IEDS)
+# Image-evaluator (Image Evaluation Distribution System (IEDS)
 A React-based application that systematically distributes AI-generated images to evaluators via Qualtrics. Manages evaluation of 300 artworks (125 AI-only, 175 AI-collaborative) across 250 evaluators, ensuring each piece receives ~12.5 evaluations. Features Firebase integration for image storage and evaluation tracking.
 
 ## Features
@@ -115,4 +115,4 @@ MIT License - see LICENSE.md
 ## Contact
 
 Your Name - wko7@georgetown.edu
-Project Link: https://github.com/wisdomobinna/image-eval
+Project Link: https://github.com/wisdomobinna/image-evaluation-system
